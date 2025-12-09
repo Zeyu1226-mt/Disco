@@ -3,3 +3,6 @@ Disco: Disentangled Identity-Action Extraction and Spatiotemporal Context Modeli
 
 Stage_one: pretrain the identity-action disentanglement network (IADN)
 Stage_two: the identity-aware basketball video captioner (Disco)
+
+
+This work is currently under review at the journal Pattern Recognition.
