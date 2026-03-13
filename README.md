@@ -10,6 +10,7 @@ Improved from [LLM-IAVC](https://github.com/Zeyu1226-mt/LLM-IAVC).
 
 
 **Our work has been accepted by Pattern Recognition 2026**
+
 Cite this paper:
 ```bibtex
 @article{xi2026disco,
